@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "<h1 style='font-family: sans-serif;'>🚀 React App is Running Inside Flask!</h1>";
